@@ -1,5 +1,7 @@
 <?php namespace plugins\instascan\controllers;
 
+// https://github.com/schmich/instascan/issues/202#issuecomment-455845824
+
 class Main extends \Controller
 {
     private $s;
